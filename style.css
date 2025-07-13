@@ -1,0 +1,50 @@
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+}
+
+body {
+    background-color: lavender;
+    font-family: sans-serif;
+}
+
+nav a {
+    color: white;
+    background-color: Thistle;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+main h1 {
+    background-color: Plum;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+main {
+    background-color: Thistle;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+}
+
+footer {
+    background-color: Orchid;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+    color: white;
+}
+
+main img {
+    width: 60px;
+    height: 60px;
+}
